@@ -1,5 +1,7 @@
 # LaPluma-LaVerdad-y-ElVientoSur
 Investigaciones Independientes
+
+
 # FMAN
 ## Propiedad Intelectual
 
@@ -19,6 +21,8 @@ https://orcid.org/0009-0009-0638-5961
 **Licencia:** CC BY-NC-ND 4.0
 
 ---
+
+**Avila-Nicolau**
 
 ## DOIs Zenodo — Ecosistema FMAN
 
